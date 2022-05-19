@@ -1,11 +1,10 @@
 {
-    "name" : "仿奈雪の茶前端模板（微信小程序+h5）",
-    "appid" : "__UNI__C40D72C",
-    "description" : "",
+    "name" : "贝拉萌宠生活馆",
+    "appid" : "__UNI__190BC46",
+    "description" : "贝拉宠物生活馆：位于广东省广州市白云区乐天街32号A铺。主要经营宠物室内外摄影，一人一狗专业培训，管家式寄养，宠物洗浴美容，进口用品，宠物丧葬等。本店加入了：广州向往义工队！中国小动物保护协会！",
     "versionName" : "1.0.0",
     "versionCode" : "100",
     "transformPx" : false,
-    /* 5+App特有相关 */
     "app-plus" : {
         "usingComponents" : true,
         "nvueCompiler" : "uni-app",
@@ -16,11 +15,8 @@
             "autoclose" : true,
             "delay" : 0
         },
-        /* 模块配置 */
         "modules" : {},
-        /* 应用发布信息 */
         "distribute" : {
-            /* android打包配置 */
             "android" : {
                 "permissions" : [
                     "<uses-permission android:name=\"android.permission.CHANGE_NETWORK_STATE\"/>",
@@ -47,15 +43,11 @@
                     "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
                 ]
             },
-            /* ios打包配置 */
             "ios" : {},
-            /* SDK配置 */
             "sdkConfigs" : {}
         }
     },
-    /* 快应用特有相关 */
     "quickapp" : {},
-    /* 小程序特有相关 */
     "mp-weixin" : {
         "appid" : "",
         "setting" : {
