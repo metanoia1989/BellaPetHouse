@@ -213,6 +213,15 @@
 				"disableScroll": true
 			}
         }
+        ,{
+            "path" : "pages/cloud-test/cloud-test",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "云函数测试",
+                "enablePullDownRefresh": false
+            }
+            
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",

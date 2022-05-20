@@ -1,0 +1,20 @@
+{
+  "name": "testFun",
+  "description": "测试云函数",
+  "dependencies": {
+    "hello-common": "file:../common/hello-common"
+  },
+  "main": "index.js",
+  "extensions": {
+    "uni-cloud-jql": {}
+  },
+  "cloudfunction-config": {
+    "memorySize": 256,
+    "timeout": 5,
+    "triggers": [{
+      "name": "myTriggers",
+      "type": "timer",
+      "config": "0 0 * * * * *"
+    }]
+  }
+}
