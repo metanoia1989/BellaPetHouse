@@ -12,7 +12,7 @@ export default [
         "title": "生日免费券",
         "couponId": "1",
         "deletedAt": null,
-        "sellerName": "奈雪の茶",
+        "sellerName": "贝拉萌宠生活馆",
         "updatedAt": "2020-05-10 02:06:00",
         "couponType": 1
     },
@@ -63,7 +63,7 @@ export default [
         "title": "升级好友券",
         "couponId": "4",
         "deletedAt": null,
-        "sellerName": "奈雪の茶",
+        "sellerName": "贝拉萌宠生活馆",
         "updatedAt": "2020-05-08 19:25:41",
         "couponType": 1
     },
@@ -80,7 +80,7 @@ export default [
         "title": "茶饮满二赠一券",
         "couponId": "5",
         "deletedAt": null,
-        "sellerName": "奈雪の茶",
+        "sellerName": "贝拉萌宠生活馆",
         "updatedAt": "2020-05-08 19:25:41",
         "couponType": 1
     },
@@ -96,7 +96,7 @@ export default [
         "title": "小程序外卖5元现金券",
         "couponId": "6",
         "deletedAt": null,
-        "sellerName": "奈雪の茶",
+        "sellerName": "贝拉萌宠生活馆",
         "updatedAt": "2020-05-08 19:25:40",
         "couponType": 1
     }

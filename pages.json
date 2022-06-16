@@ -8,14 +8,14 @@
 		}, {
 			"path": "pages/menu/menu",
 			"style": {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
 		}, {
 			"path": "pages/take-foods/take-foods",
 			"style": {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
@@ -30,7 +30,7 @@
 	    ,{
             "path" : "pages/pay/pay",
             "style" : {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
@@ -38,7 +38,7 @@
         ,{
             "path" : "pages/remark/remark",
             "style" : {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
@@ -88,7 +88,7 @@
         ,{
             "path" : "pages/address/add",
             "style" : {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
@@ -167,7 +167,7 @@
         ,{
             "path" : "pages/review/review",
             "style" : {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
@@ -175,7 +175,7 @@
         ,{
             "path" : "pages/activities/invite",
             "style" : {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
@@ -183,7 +183,7 @@
         ,{
             "path" : "pages/services/services",
             "style" : {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
@@ -191,7 +191,7 @@
         ,{
             "path" : "pages/invoice/invoice",
             "style" : {
-				"navigationBarTitleText": "奈雪の茶",
+				"navigationBarTitleText": "贝拉萌宠生活馆",
 				"navigationBarTextStyle": "black",
 				"navigationBarBackgroundColor": "#ffffff"
 			}
